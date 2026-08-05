@@ -1,0 +1,17 @@
+.intro{
+    height: 800px;
+    width: 800px;
+    background-color: azure;
+    text-align: center;
+    border-color: aquamarine;
+    border-radius: 50px;
+}
+a{
+    align-self: center;
+}
+html{
+    background-color: aqua;
+}
+p{
+    margin: 5%;
+}
