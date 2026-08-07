@@ -1,5 +1,5 @@
 .intro{
-    height: 400px;
+    height: 300px;
     width: 800px;
     background-color: azure;
     text-align: center;
@@ -20,6 +20,7 @@ p{
 }
 section{
     margin-top: 50px;
+    align-self: center;
 }
 .button-link {
   display: inline-block;
